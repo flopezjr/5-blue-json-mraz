@@ -11,9 +11,9 @@ blue-json-mraz
 * Reid Haynie  | **Insert Role Here**
 
 
-TOPIC: Campaign FundRaising
+## TOPIC: Campaign FundRaising
 
-QUESTION: 
+## QUESTION: 
 
 Of these variables which one has the largest effect on your ability to raise money out of state, Incumbency, Partisanship, State, Election Cycle
 
