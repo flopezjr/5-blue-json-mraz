@@ -1,6 +1,14 @@
 # Project Outline
 
-1. 
+1. Define Questions
+	a. Of these variables which one has the largest effect on your ability to raise money out of state, Incumbency, Partisanship, State, Election Cycle (Specefic Year)
+2. Define Source needed for each question
+3. Define API Extraction
+4. Define Possible Correlation between data APIS
+5. Extract Data &  Data Frame Conversion
+6. Define type of merge based on item 4
+7. Define type of clean, index changes if neccassary
+8. Define types of graph to reprent question at hand
 
 
 
@@ -93,7 +101,7 @@ Census
 
 
 ## QUESTION: 
-
+Does any of these have an effect 
 Of these variables which one has the largest effect on your ability to raise money out of state, Incumbency, Partisanship, State, Election Cycle (Specefic Year)
 
 Create a similarity score for candidates (cosign similarity) - each person has at least two traits (age, median age of state) the dot product of the two angles of the vectors, 
