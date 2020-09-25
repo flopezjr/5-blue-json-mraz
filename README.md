@@ -7,7 +7,7 @@ blue-json-mraz
 * Felipe Lopez | **Github Admin**
 * Carlos Pires | **Insert Role Here**
 * Michelle Nguyen | **Insert Role Here**
-* Karen Kitchens | **Insert Role Here**
+* Karen Kitchens | Secretary
 * Reid Haynie  | **Insert Role Here**
 
 
