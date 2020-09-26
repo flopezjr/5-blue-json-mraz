@@ -2,41 +2,63 @@
 
 ### Roles
 
-Reid : API Guru, SME
-Carlos: Analyst, make correlations
-Karen: Python, Github Admin, Co-lead
-Felipe: Director, PM, Co-lead
-Michelle: Visuals, clean, organize the presentation
+**Reid** : API Guru, SME
 
-All: Data Munge
-Felipe/ Reid Presenters
+**Carlos**: Analyst, make correlations
+
+**Karen**: Python, Github Admin, Co-lead
+
+**Felipe**: PM, Co-lead
+
+**Michelle**: Visuals, clean, organize the presentation
+
+**All**: Data Munge
+
+**Felipe/ Reid**: Presenters
+
 Break out into groups
 
 ### Timeline
-* Tuesday 9/22
-    * Discuss Your Topic and Sources
-    * Meet with Ed to get approval
-* Thursday 9/24
+* **Tuesday 9/22
+    *[x]Discuss Your Topic and Sources
+    *[x]Meet with Ed to get approval
+* **Thursday 9/24
     * Finalize Data Sources
     * Attempt to clean Data
     * Discuss Issues 
     * Create Issues in Github
-    * Assign Roles
+    * [x]Assign Roles
     
-* Saturday 9/26
-    * Merge individual info to master
-
+* **Saturday 9/26
+    * IceBreaker
+    * Realigh on question and mission
+    * Each Individual create their data set
+    	*Issue will be created
+    * Break Into Group
+    * Identify method of visuals (Tableau, Plotly, Matplotlib)
     
 * Tuesday 9/29
-    * Presentation Draft
+    * Ice Breaker
+    * Begin first draft of Presentation | Outline Read Me
     * Finalize data
+    * Identify any missing data
+    
 * Thursday 10/1
-    * Consolidate data
+    * Consolidate visuals
     * Get Presentation Finalized
     * Practice
 * Saturday 10/3
     ##  **Presentation Day!**
 
+**Advice** 
+Michaels Advice : Define more planning upfront, you can be constrained by Data. What we define now, we can pull the data if it is there, or how can we find it if it is not there. Bottle neck is waiting on Data
+
+Ed + Michael Advice:
+
+Thursday during class:
+Assign pieces out to people
+Milestones, when things get done
+Techniques
 
 # Project Plan - " Knowledge Share of Ideas"
 
@@ -54,19 +76,6 @@ Break out into groups
 Data Sets
 
 API Retrival
-
-
-    
-    ## TOPIC: Campaign FundRaising
-
-Why are doing Project
-Election Funding Raising
-
-Gather API Data
-FEC
-Census
-
-Gather CSV Data if neccassary
 
 **Data Cleaning**
 - *Spend most time here
@@ -150,10 +159,6 @@ Protect master branch so that folks can’t accidentally merge to master. Assign
 Before you commit to github, convert your Jupiter Notebooks to copy and paste your files into python files. The difference comparison is hard to determine with Jupiter files. All kinds of stuff in the Notebook that you don’t need to commit. 
 
 Jupiter Notebooks for development, Python for github. Gitignore your .ipynb 
-
-
-
-
 
 FALLBACK IDEA
 FEC spending idea
