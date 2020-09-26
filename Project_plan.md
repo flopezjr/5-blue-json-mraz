@@ -1,24 +1,18 @@
 # Project Outline
 
-1. Define Questions
-	a. Of these variables which one has the largest effect on your ability to raise money out of state, Incumbency, Partisanship, State, Election Cycle (Specefic Year)
-2. Define Source needed for each question
-3. Define API Extraction
-4. Define Possible Correlation between data APIS
-5. Extract Data &  Data Frame Conversion
-6. Define type of merge based on item 4
-7. Define type of clean, index changes if neccassary
-8. Define types of graph to reprent question at hand
+### Roles
 
+Reid : API Guru, SME
+Carlos: Analyst, make correlations
+Karen: Python, Github Admin, Co-lead
+Felipe: Director, PM, Co-lead
+Michelle: Visuals, clean, organize the presentation
 
+All: Data Munge
+Felipe/ Reid Presenters
+Break out into groups
 
-# Project Plan - " Knowledge Share of Ideas"
-
-## Data Sets
-
-API Retrival
-
-## Timeline
+### Timeline
 * Tuesday 9/22
     * Discuss Your Topic and Sources
     * Meet with Ed to get approval
@@ -42,19 +36,39 @@ API Retrival
     * Practice
 * Saturday 10/3
     ##  **Presentation Day!**
+
+
+# Project Plan - " Knowledge Share of Ideas"
+
+1. Define Questions
+	a. Of these variables which one has the largest effect on your ability to raise money out of state, Incumbency, Partisanship, State, Election Cycle (Specefic Year)
+2. Define Source needed for each question
+3. Define API Extraction
+4. Define Possible Correlation between data APIS
+5. Extract Data &  Data Frame Conversion
+6. Define type of merge based on item 4
+7. Define type of clean, index changes if neccassary
+8. Define types of graph to reprent question at hand
+
+
+Data Sets
+
+API Retrival
+
+
     
     ## TOPIC: Campaign FundRaising
 
-## Why are doing Project
+Why are doing Project
 Election Funding Raising
 
-## Gather API Data
+Gather API Data
 FEC
 Census
 
-## Gather CSV Data if neccassary
+Gather CSV Data if neccassary
 
-## **Data Cleaning**
+**Data Cleaning**
 - *Spend most time here
    * Prepare Data to be analyzed
    * Aggregate grouping by questions we are trying to answer
@@ -63,13 +77,13 @@ Census
       * Scatter Plot
       * Line Chart
    
- ## Data Visualsion
+Data Visualsion
    * Get aligned with group on possible linear regression
    * Start putting presentation together
    
-  ## Practice Presentation
+Practice Presentation
   
-  ### Present
+Present
   
  In Conclusion:
  
@@ -95,8 +109,6 @@ Census
       
   * Visuals
    * Preferred data visual tool
-   
-  
    
 
 
