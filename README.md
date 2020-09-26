@@ -5,8 +5,8 @@ blue-json-mraz
 
 ## Team Members & Roles
 * Felipe Lopez | **Github Admin**
-* Carlos Pires | **Insert Role Here**
-* Michelle Nguyen | **Insert Role Here**
+* Carlos Pires | **Visualization**
+* Michelle Nguyen | **Visualtion**
 * Karen Kitchens | **Insert Role Here**
 * Reid Haynie  | **Insert Role Here**
 
@@ -52,7 +52,11 @@ Before you commit to github, convert your Jupiter Notebooks to copy and paste yo
 
 Jupiter Notebooks for development, Python for github. Gitignore your .ipynb 
 
-
+Visualizations - 
+1st visualization - Which states have the most funding? Republicans & Democrats per state
+2nd visualization - For that state with the most funds, split Republicans and Democrats (ex. California and Texas)
+3rd visualization - How much money donated were from instate/outofstate/superpacs?
+4th visualization - Top 2 Senate candidates (Republican + Democrat from each state) per state
 
 
 
