@@ -1,80 +1,52 @@
-# 5-blue-json-mraz Project 1
+# 1-blue-json-mraz Project 1
 
 ## Group Name
-blue-json-mraz
+1-blue-json-mraz
+
+# Topic
 
 ## Team Members & Roles
 * Felipe Lopez | **Github Admin**
-* Carlos Pires | **Visualization**
-* Michelle Nguyen | **Visualtion**
-* Karen Kitchens | **Insert Role Here**
-* Reid Haynie  | **Insert Role Here**
+* Carlos Pires | **Visualization, Analyst**
+* Michelle Nguyen | **Visualtion, Analyst**
+* Karen Kitchens | **Python, Github Admin**
+* Reid Haynie  | **API Guru, SME**
+* All | **Data Munge**
+* Presenters | **Felipe/ Reid**
 
+## Background: Campaign Fund Raising
 
-## TOPIC: Campaign FundRaising
-
-## QUESTION: 
-
-Of these variables which one has the largest effect on your ability to raise money out of state, Incumbency, Partisanship, State, Election Cycle
-
-Create a similarity score for candidates (cosign similarity) - each person has at least two traits (age, median age of state) the dot product of the two angles of the vectors, 
-	
-Candidate profile -  
-
-fec.api ($ received) + 
-census api +  
-google sentiments api +
-(demographics):
+This project aims to answer the questions ff these variables which one has the largest effect on your ability to raise money out of state, Incumbency, Partisanship, State, Election Cycle based on the resources below.
 
 As a Congressional candidate what indicates the probability of you being able to pull in money from out of state. Creating a Candidate Demographic*- what kind of candidate is more likely to get money from out of state. 
 
 * Candidate Demographics (Incumbant/Challenger, Gender, Religion, Party, Age-Range, Rural, Education, Income, Race)
 
-	Based on similar candidates who are the best fundraisers?
+## Data Sources
+* A `config.py` file will be required for the notebook to run. This contains the FEC API Key. We are pulling donations from individual donors.
+* FEC API 
+    * Canidate information ="https://api.open.fec.gov/v1/candidates/"
+    * Finance Data ="https://api.open.fec.gov/v1/schedules/schedule_a/by_state/by_candidate/"
+* Census API
+    * url = 
 
-Ed + Michael Advice:
+* We started out with 2 seperate CSV files that seperated financial data by Democratic and Republicans then we ended up merging into one.
 
-Thursday during class:
-Assign pieces out to people
-Milestones, when things get done
-Techniques
+## Data Munging
 
-Github workflow: 
-master, Felipe and Karen merging branches
-Branch name: 
-Issue-Number-Description
+## QUESTIONS and Analysis: 
+* How much $$ was raised by Democrats based on individual donors by state?
+* Total $ raised by state
+* Who were the top 3
+* Who does better raising funds, incumbents or challenger?
+* Which state raised more money?
+* How much money this state donates to other states campaign?
+* Which candidates received more donation from this state.
 
-Create Issue card for new features, and give a milestone, and assign. You can create another issue card for bugs 
-
-Protect master branch so that folks can’t accidentally merge to master. Assign a person to manage pull requests and manage conflicts
-
-Before you commit to github, convert your Jupiter Notebooks to copy and paste your files into python files. The difference comparison is hard to determine with Jupiter files. All kinds of stuff in the Notebook that you don’t need to commit. 
-
-Jupiter Notebooks for development, Python for github. Gitignore your .ipynb 
 
 Visualizations - 
 1st visualization - Which states have the most funding? Republicans & Democrats per state
 2nd visualization - For that state with the most funds, split Republicans and Democrats (ex. California and Texas)
 3rd visualization - How much money donated were from instate/outofstate/superpacs?
 4th visualization - Top 2 Senate candidates (Republican + Democrat from each state) per state
-
-
-
-FALLBACK IDEA
-FEC spending idea
-Facebook api
-
-
-
-## Topic:
-
-## Hypothesis
-
-## Background:
-
-## Data Munging
-
-## Analysis
-
-## Data Sources
 
