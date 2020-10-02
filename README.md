@@ -3,6 +3,8 @@
 ## Group Name
 1-blue-json-mraz
 
+![dem_rep](Images/dem_rep.png)
+
 # Topic
 
 ## Team Members & Roles
@@ -35,6 +37,13 @@ As a Congressional candidate what indicates the probability of you being able to
 ## Data Munging
 
 ## QUESTIONS and Analysis: 
+
+* Which of the following variables has the most impact on your ability to raise money out of state:
+* Is it your party? Is it your candidacy status? 
+* Does a challenger raise more money out-of-state if they are a member of their state’s majority party or if they are a member of their state’s opposition party?
+* Do they raise more if they are a part of the opposition or a part of the majority
+
+# ?
 * How much $$ was raised by Democrats based on individual donors by state?
 * Total $ raised by state
 * Who were the top 3
