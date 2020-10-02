@@ -1,5 +1,14 @@
 # Project Outline
 
+### Questions for Visuals 10/1/20:
+* Regardless of party do you raise more money as a challenger or incumbent?
+* One column per party average raised by party
+* On average do incumbents or challengers raise more money?
+* If your an incumbent do you raise more money in state?
+* How viable is a state in regards to raising money out of state?
+* 
+
+
 ### Roles
 
 **Reid** : API Guru, SME
@@ -119,6 +128,7 @@ Present
   * Visuals
    * Preferred data visual tool
    
+
 
 
 ## QUESTION: 
