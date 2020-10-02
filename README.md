@@ -1,22 +1,19 @@
-# 1-blue-json-mraz Project 1
+# Goup: 1-blue-json-mraz Project 1
 
-## Group Name
-1-blue-json-mraz
+# Topic: Individual Campaign Fundraising
 
 ![dem_rep](Images/dem_rep.png)
 
-# Topic
 
-## Team Members & Roles
-* Felipe Lopez | **Github Admin**
-* Carlos Pires | **Visualization, Analyst**
-* Michelle Nguyen | **Visualtion, Analyst**
-* Karen Kitchens | **Python, Github Admin**
-* Reid Haynie  | **API Guru, SME**
-* All | **Data Munge**
-* Presenters | **Felipe/ Reid**
 
-## Background: Campaign Fund Raising
+## Team Members
+* Felipe Lopez 
+* Carlos Pires 
+* Michelle Nguyen 
+* Karen Kitchens 
+* Reid Haynie  
+
+## Background: Individual Campaign Fundraising
 
 This project aims to answer the questions ff these variables which one has the largest effect on your ability to raise money out of state, Incumbency, Partisanship, State, Election Cycle based on the resources below.
 
@@ -29,8 +26,9 @@ As a Congressional candidate what indicates the probability of you being able to
 * FEC API 
     * Canidate information ="https://api.open.fec.gov/v1/candidates/"
     * Finance Data ="https://api.open.fec.gov/v1/schedules/schedule_a/by_state/by_candidate/"
-* Census API
-    * url = 
+* FEC CSV 
+    * `2012.csv` & `2016.csv`
+    *FEC Presedential election data for map of blue states and red states 
 
 * We started out with 2 seperate CSV files that seperated financial data by Democratic and Republicans then we ended up merging into one.
 
