@@ -18,17 +18,17 @@ Candidates running for federal office in the United States must report all donat
 
 We were mostly curious about in-state versus out-of-state campaign donations. Why would someone who can't vote for a person donate to that person's campaign? Why woudl a Senator who has difficult raising money in the state of his own consitutents, yet major success from outsider contributions? Since that question is so braod and involves so many factors, we narrowed our question down to one easily answered question about the 2020 Senate race:
 
-## Hypothesis:
+## Hypothesis
 
 Our hypothesis, is that since they are the opposition of the party of their state, that they would be less likely to have the ability to raise money in-state, and that states with whom they share a party affiliation would donate heavily to that challenger, in an attempt to get control of the Senate.
 We think that having the best opportunity to gain a seat for either party will most encourage out-of-state of donations(so, Republican challengers in Republican states and Democratic Challengers in Democratic States.
 
-## Question: 
+## Question 
 
 What enables a Senate Candidate's ability to raise money from out of state?
 Does a challenger raise more money out of state if they are a member of their states majority party or if they are a member of their states oppositions party? 
 
-## Findings:
+## Findings
 
 Democratic Challengers regardless of their state's majority raised the best among Democrats and Republican incumbents in Republican majority states did the best among Republicans.
 
@@ -69,17 +69,15 @@ The Average raised out of state for
 	f. A republican Challenger Swing
 
 Figure 1:
-Explain the map
 
 ![fig1](Images/Fig1.png)
 
 Figure 2:
-Explain the graph
 
 ![fig2](Images/Fig2.png)
 
 Figure 3:
-Explain why we chose this graph
+
 ![fig3](Images/Fig3.png)
 
 ## CONCLUSIONS
