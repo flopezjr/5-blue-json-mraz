@@ -71,16 +71,16 @@ The Average raised out of state for
 Figure 1:
 Explain the map
 
-![fig1](Images/fig1.PNG)
+![fig1](Screen Shot 2020-10-02 at 8.09.01 PM.png)
 
 Figure 2:
 Explain the graph
 
-![fig2](Images/fig2.PNG)
+![fig2](Screen Shot 2020-10-02 at 8.09.01 PM.png)
 
 Figure 3:
 Explain why we chose this graph
-![fig3](Images/fig3.PNG)
+![fig3](Screen Shot 2020-10-02 at 8.09.09 PM.png)
 
 ## CONCLUSIONS
 
