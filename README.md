@@ -44,11 +44,11 @@ Democratic Challengers regardless of their state's majority raised the best amon
     
 * Tableau:  https://public.tableau.com/profile/michelle.nguyen4439#!/vizhome/Project1-FINAL/Sheet4?publish=yes
 
-* We started out with 2 separate CSV files that seperated financial data by Democratic and Republicans then we ended up merging into one.
+* We started out with 2 separate CSV files that separated financial data by Democratic and Republicans then we ended up merging into one.
 
 ## Data Munging
 
-{Reids info here}
+We pulled a list of all 2020 senate candidates, which included candidate information such as state, party affiliation, and incumbency status. We also pulled a list of totals raised by every candidate that was broken down by state. After joining these lists on candidate ID, we totaled all of the candidate’s out-of-state donations and created columns for their in-state and out-of-state fundraising totals.
 
 ## Definitions
 
@@ -74,5 +74,6 @@ Figure 3:
 
 Democrats clearly have a strategy to go on the offense while Republicans are clearly trying to maintain the seats that they have.
 
-## FURTHER RESEARCH
+## FUTURE RESEARCH
 
+We consider that this could be determined by who holds a majority in the senate. It would be interesting to analyze current House races to see if this would be inverted, considering Democrats hold a majority there.
