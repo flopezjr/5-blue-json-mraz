@@ -49,7 +49,41 @@ Democratic Challengers regardless of their state's majority raised the best amon
 
 ## Data Munging
 
-We pulled a list of all 2020 senate candidates, which included candidate information such as state, party affiliation, and incumbency status. We also pulled a list of totals raised by every candidate that was broken down by state. After joining these lists on candidate ID, we totaled all of the candidate’s out-of-state donations and created columns for their in-state and out-of-state fundraising totals.
+OpenFec had many endpoints to choose from. Occasionally we had to switch out the endpoints because the data was not sufficient. We narrowed it down to an endpoint that gave us a table of 2020 senate candidates with one row per candidate including their party, state, and incumbency status. 
+
+Example of Data from candidate endpoint: 
+
+Candidate Name | Candidate ID | Party | State | Incumbency Status
+Mitch McConnell, XXXXX, Republican, KY, incumbent
+Mark Kelly, OOOOO, Democrat, AZ, challenger
+
+Next we used a financial endpoint to get the total amount raised by state for every candidate as of September 1, 2020. The data was structured as one row per state donation for a particular candidate.
+
+Example of Data from financials endpoint: 
+
+Candidate ID | State Donation Originated From | Amount Donated
+XXXXX, TX, $1,000,000
+XXXXX, AZ, $1,000,000
+XXXXX, WA, $1,000,000
+OOOOO, TX, $1,000,000
+OOOOO, AZ, $1,000,000
+OOOOO, WA, $1,000,000
+
+We were able to join the data on the Candidate ID, and include the separate amounts donated per state. Then we added all of the out-of-state donations per Candidate so that our data was structured as:
+
+Candidate Name | Candidate ID | Party | State | Incumbency Status | Total Raised Out of State
+Mitch McConnell, XXXXX, Republican, KY, incumbent, $3,000,000
+Mark Kelly, OOOOO, Democrat, AZ, challenger, $3,000,000
+
+Next, we needed to determine whether a state was affiliated with Democrats or Republican so that we could associate it to the candidate. We gathered this data from the past two presidential results and concluded that if a state voted for a Democrat both times, then a state was a Democratic state, and if a state voted for a Republican both times is was a Republican state. If it was switched back and forth, then it was a Non-affiliated state.
+
+The final data was structured this way:
+
+Candidate Name | Candidate ID | Party | State | Incumbency Status | Total Raised Out of State | State Status
+Mitch McConnell, XXXXX, Republican, KY, incumbent, $3,000,000, Republican
+Mark Kelly, OOOOO, Democrat, AZ, challenger, $3,000,000, Republican
+
+We considered only Republican or Democratic Senate candidates that were going into the general election.
 
 ## Definitions
 
