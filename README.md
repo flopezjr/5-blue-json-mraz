@@ -77,4 +77,4 @@ Democrats clearly have a strategy to go on the offense while Republicans are cle
 
 ## Future Research
 
-We consider that this could be determined by who holds a majority in the senate. It would be interesting to analyze current House races to see if this would be inverted, considering Democrats hold a majority there.
+We consider that this could be determined by who holds a majority in the senate. It would be interesting to analyze current House races to see if this would be inverted, considering Democrats hold a majority there. It would also be helpful to look at past Senate elections to see if our conclusions hold true.
