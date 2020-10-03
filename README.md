@@ -20,14 +20,14 @@ We were mostly curious about in-state versus out-of-state campaign donations. Wh
 
 ## Question 
 
-What enables a Senate Candidate's ability to raise money from out of state?
-Does a challenger raise more money out of state if they are a member of their states majority party or if they are a member of their states oppositions party? 
+What encourages a donor to donate to senate candidates from another state?
+Does a challenger raise more money from out of state donors if they are a member of their states majority party or if they are a member of their states oppositions party? 
 
 ## Hypothesis
 
-We think that having the best opportunity to gain a seat for either party will most encourage out-of-state of donations(so, Republican challengers in Republican states and Democratic Challengers in Democratic States.
+We think that having the best opportunity to gain a seat for either party will most encourage out-of-state of donations (so, Republican challengers in Republican states and Democratic Challengers in Democratic States).
 
-Since they are the opposition of the party of their state, they would be less likely to raise money in-state, and that states with whom they share a party affiliation would donate heavily to that challenger, in an attempt to gain that seat.
+If a candidate is a member their state's opposition party, they will likely raise less money in-state on average, and more from states with whom they share a party affiliation.
 
 ## Data Sources
 
@@ -43,9 +43,6 @@ Since they are the opposition of the party of their state, they would be less li
 
 * We started out with 2 separate CSV files that separated financial data by Democratic and Republicans then we ended up merging into one.
 
-## Findings
-
-Democratic Challengers regardless of their state's majority raised the best among Democrats and Republican incumbents in Republican majority states did the best among Republicans.
 
 ## Data Munging
 
@@ -93,6 +90,10 @@ We considered only Republican or Democratic Senate candidates that were going in
 * Member of the majority = Your party aligns with the color of your state
 * Individual Donors = non group funds
 
+## Findings
+
+Democratic Challengers regardless of their state's majority raised the best among Democrats and Republican incumbents in Republican majority states did the best among Republicans.
+
 Figure 1:
 
 ![fig1](Images/Fig1.png)
@@ -104,6 +105,7 @@ Figure 2:
 Figure 3:
 
 ![fig3](Images/Fig3.png)
+
 
 ## Conclusion
 
