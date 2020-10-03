@@ -58,16 +58,6 @@ Democratic Challengers regardless of their state's majority raised the best amon
 * Member of the majority = Your party aligns with the color of your state
 * Individual Donors = non group funds
 
-Viz 1: 
-A Bar Chart that identifies 
-The Average raised out of state for
-	a. A democrat Challenger Opposition
-	b. A democrat Challenger Majority
-	c. A democrat Challenger Swing
-	d. A republican Challenger Opposition
-	e. A republican Challenger Majority
-	f. A republican Challenger Swing
-
 Figure 1:
 
 ![fig1](Images/Fig1.png)
