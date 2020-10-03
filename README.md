@@ -87,6 +87,9 @@ We considered only Republican or Democratic Senate candidates that were going in
 * Member of the opposition = Your party doesn’t align with the color of your state 
 * Member of the majority = Your party aligns with the color of your state
 * Individual Donors = non group funds
+* Incumbent Candidate = A candidate that is currently holding the office that they are running for 
+* Challenger Candidate = A candidate that is running against the incumbent 
+* Open Seat = A seat where the incumbent is not running for reection
 
 ## Findings
 
