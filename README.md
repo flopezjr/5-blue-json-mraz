@@ -110,7 +110,7 @@ Figure 3:
 
 ## Conclusion
 
-Democrats clearly have a strategy to go on the offense while Republicans are clearly trying to maintain the seats that they have.
+Democratic donors are most incentived by challenging Repbulican seats, while Republican donors are most concerned with maintaining the seats that they have.
 
 ## Future Research
 
