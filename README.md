@@ -16,7 +16,7 @@
 
 Candidates running for federal office in the United States must report all donations, and money that their campaign receives to the FEC (Federal Election Committee). This information is on public record and made available by that agency. The FEC.gov website allows you to do an extraordinary amount of research and comparison. It is easy to look up who raised the most money in 2020 from Super Pacs or Individual donors. The FEC provides their public information in many forms throughout their website (in bulk downloads, in-browser tools), but they also have a robust API,the OpenFec https://api.open.fec.gov/developers/. Where people can draw out the exact data that they are interested in. 
 
-We were mostly curious about in-state versus out-of-state campaign donations. Why would someone who can't vote for a person donate to that person's campaign? Why woudl a Senator who has difficult raising money in the state of his own consitutents, yet major success from outsider contributions? Since that question is so braod and involves so many factors, we narrowed our question down to one easily answered question about the 2020 Senate race:
+We were mostly curious about in-state versus out-of-state campaign donations. Why would someone who can't vote for a person donate to that person's campaign? Why would a Senator who has difficult raising money in the state of his own constituents, yet major success from outsider contributions? Since that question is so broad and involves so many factors, we narrowed our question down to one easily answered question about the 2020 Senate race:
 
 ## Question 
 
@@ -37,7 +37,7 @@ If a candidate is a member their state's opposition party, they will likely rais
     * Finance Data: "https://api.open.fec.gov/v1/schedules/schedule_a/by_state/by_candidate/"
 * FEC CSV 
     * `2012.csv` & `2016.csv`
-    *FEC Presedential election data for map of blue states and red states 
+    *FEC Presidential election data for map of blue states and red states 
     
 * Tableau:  https://public.tableau.com/profile/michelle.nguyen4439#!/vizhome/Project1-FINAL/Sheet4?publish=yes
 
