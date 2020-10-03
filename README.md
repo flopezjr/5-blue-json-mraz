@@ -110,7 +110,7 @@ Figure 3:
 
 ## Conclusion
 
-Democratic donors are most incentived by challenging Repbulican seats, while Republican donors are most concerned with maintaining the seats that they have.
+Democratic donors are most incentived by challenging Republican seats, while Republican donors are most concerned with maintaining the seats that they have.
 
 ## Future Research
 
