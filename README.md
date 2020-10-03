@@ -41,8 +41,6 @@ If a candidate is a member their state's opposition party, they will likely rais
     
 * Tableau:  https://public.tableau.com/profile/michelle.nguyen4439#!/vizhome/Project1-FINAL/Sheet4?publish=yes
 
-* We started out with 2 separate CSV files that separated financial data by Democratic and Republicans then we ended up merging into one.
-
 
 ## Data Munging
 
